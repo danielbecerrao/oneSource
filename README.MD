@@ -61,7 +61,13 @@ npm run build
 cd ../frontend
 quasar build
 ```
+## 6 · Funcionamiento
 
+Se debe iniciar sesión con el usuario y contraseña que se indica en la ejecución en nube, inicialmente el usuario debe crear su dashboard, segudo puede agregar las cards que considere, existen 3 tipos, tarjeta informativa, top productos, ventas por mes, cada una pedirá la información minima para generar la card.
+
+El dashboard, la card, la información, la posición y el tamaño de la card son almacenados en base de datos.
+
+Es posible eliminar cards del dashboard.
 
 ## Ejecución en nube
 Se puede usar la aplicación ya que esta desplegada en un servidor, para usarlo debe ingresar a la siguiente url: http://becerra.tplinkdns.com:9000 .
@@ -72,4 +78,36 @@ Los usuarios para iniciar sesión son: prueba1, prueba2, prueba3, prueba4 y prue
 ### Inicio de sesión
 
 ![Inicio de sesión](images/login.png)
+
+### Dashboard inicial
+
+![Dashboard inicial](images/1.png)
+
+### Creación de dashboard
+
+![Creación de dashboard](images/2.png)
+
+### Dashboard creado
+
+![Dashboard creado](images/3.png)
+
+### Tarjeta informativa
+
+![Tarjeta informativa](images/4.png)
+
+### Top productos
+
+![Top productos](images/5.png)
+
+### Ventas por mes
+
+![Ventas por mes](images/6.png)
+
+### Dashboard con cards
+
+![Dashboard con cards](images/7.png)
+
+### Cambio de posición de cards
+
+![Cambio de posición de cards](images/8.png)
 
