@@ -71,3 +71,5 @@ Los usuarios para iniciar sesión son: prueba1, prueba2, prueba3, prueba4 y prue
 
 ### Inicio de sesión
 
+![Inicio de sesión](images/login.png)
+
