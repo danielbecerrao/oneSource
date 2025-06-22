@@ -66,3 +66,8 @@ quasar build
 ## Ejecución en nube
 Se puede usar la aplicación ya que esta desplegada en un servidor, para usarlo debe ingresar a la siguiente url: http://becerra.tplinkdns.com:9000 .
 Los usuarios para iniciar sesión son: prueba1, prueba2, prueba3, prueba4 y prueba5 con contraseña 1234
+
+## Imagenes de referencia
+
+### Inicio de sesión
+
